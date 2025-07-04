@@ -12,7 +12,7 @@ This project is a responsive blog layout built using **Bootstrap 5** along with 
 ## Tools Used
 
 - HTML5
-- CSS3 (`style.css`)
+- CSS3 
 - Bootstrap 5 CDN
 - Bootstrap Icons CDN
 
@@ -26,7 +26,7 @@ This project is a responsive blog layout built using **Bootstrap 5** along with 
 ## Files Included
 
 - `index.html` – Main blog layout using Bootstrap 5
-- `style.css` – Custom CSS for additional styling
+- `styles.css` – Custom CSS for additional styling
 - `README.md` – Project documentation
 
 ## How to Test Responsiveness
