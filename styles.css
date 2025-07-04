@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+main {
+  flex: 1;
+}
+
+.navbar-brand {
+  font-weight: bold;
+ }
+footer {
+   margin-top: 20px;
+    }
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+    }
