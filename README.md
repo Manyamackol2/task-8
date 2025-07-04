@@ -9,16 +9,6 @@ This project is a responsive blog layout built using **Bootstrap 5** along with 
 - Customized spacing, font styles, and layout using `style.css`
 - Mobile-first and fully responsive design
 
-## How to Test Responsiveness
-
-1. Open `index.html` in your browser.
-2. Right-click → **Inspect** → Click the **device toolbar** (📱 icon).
-3. Choose devices like `iPhone`, `iPad`, or resize manually.
-4. Confirm that:
-   - Navbar collapses to toggle icon
-   - Blog cards stack correctly
-   - Footer stays full-width with margin above
-
 ## Tools Used
 
 - HTML5
@@ -38,6 +28,16 @@ This project is a responsive blog layout built using **Bootstrap 5** along with 
 - `index.html` – Main blog layout using Bootstrap 5
 - `style.css` – Custom CSS for additional styling
 - `README.md` – Project documentation
+
+## How to Test Responsiveness
+
+1. Open `index.html` in your browser.
+2. Right-click → **Inspect** → Click the **device toolbar** (📱 icon).
+3. Choose devices like `iPhone`, `iPad`, or resize manually.
+4. Confirm that:
+   - Navbar collapses to toggle icon
+   - Blog cards stack correctly
+   - Footer stays full-width with margin above
 
 ## Screenshot
 
